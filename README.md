@@ -1,6 +1,8 @@
 # pilet
-3d files, pcb files, schematics, and documentation for pilet—an open-source, modular, and portable mini-computer. 
-all files will be uploaded here following the product's release.
+this repository contains 3d files, pcb files, schematics, and documentation for pilet mini-computer. 
+all files will be gradually released here. The schematics and pcbs are designed in kicad and released under CERN-OHL-P license. 
 
-## acknowledgments
-special thanks to [pcbway](https://github.com/pcbway) for generously sponsoring our pcb prototyping.
+# current releases
+- nvme module
+
+
