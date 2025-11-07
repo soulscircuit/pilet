@@ -1,0 +1,11 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "6873XX124422_687316124422")(type "KiCad")(uri "${KIPRJMOD}/components/687316124422/6873XX124422_687316124422.kicad_sym")(options "")(descr ""))
+  (lib (name "SRP4020TA-2R2M")(type "KiCad")(uri "${KIPRJMOD}/components/SRP4020TA-2R2M/SRP4020TA-2R2M.kicad_sym")(options "")(descr ""))
+  (lib (name "nvme-symbols")(type "KiCad")(uri "${KIPRJMOD}/components/nvme-symbols.kicad_sym")(options "")(descr ""))
+  (lib (name "ap3441she")(type "KiCad")(uri "${KIPRJMOD}/components/ap3441she.kicad_sym")(options "")(descr ""))
+  (lib (name "nc7sb3157p6x")(type "KiCad")(uri "${KIPRJMOD}/components/nc7sb3157p6x.kicad_sym")(options "")(descr ""))
+  (lib (name "C6081226")(type "KiCad")(uri "${KIPRJMOD}/components/C6081226/C6081226.kicad_sym")(options "")(descr ""))
+  (lib (name "FPC")(type "KiCad")(uri "${KIPRJMOD}/components/FPC.kicad_sym")(options "")(descr ""))
+  (lib (name "BM02B-SURS-TF_sym")(type "KiCad")(uri "${KIPRJMOD}/components/BM02B-SURS-TF_sym.kicad_sym")(options "")(descr ""))
+)

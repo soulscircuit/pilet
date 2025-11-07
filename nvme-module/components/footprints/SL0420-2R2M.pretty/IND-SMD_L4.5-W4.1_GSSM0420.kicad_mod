@@ -1,0 +1,224 @@
+(footprint "IND-SMD_L4.5-W4.1_GSSM0420"
+	(version 20240108)
+	(generator "pcbnew")
+	(generator_version "8.0")
+	(layer "F.Cu")
+	(property "Reference" "U?"
+		(at 0 -2.859 0)
+		(layer "F.SilkS")
+		(uuid "6d97d6c9-8d15-4890-996e-9f0445d1cceb")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Value" "IND-SMD_L4.5-W4.1_GSSM0420"
+		(at 0 2.859 0)
+		(layer "F.Fab")
+		(uuid "9700be2e-8f5e-472b-8ac1-70fa327ffa15")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Footprint" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "66165e70-de2b-4975-b37f-3f4e4ade13cd")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Datasheet" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "8a6fc33a-9f2f-4214-a823-9dee44550832")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "57be39ca-ee91-4d71-b850-4221014f8fe4")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(fp_line
+		(start -2.032 -2.032)
+		(end -2.032 -1.381)
+		(stroke
+			(width 0.254)
+			(type default)
+		)
+		(layer "F.SilkS")
+		(uuid "84465cd0-3352-4e40-8bee-e7a9f2ed0320")
+	)
+	(fp_line
+		(start -2.032 1.381)
+		(end -2.032 2.032)
+		(stroke
+			(width 0.254)
+			(type default)
+		)
+		(layer "F.SilkS")
+		(uuid "3f3c338b-5f9f-4ae0-bec0-efd4d99fd19c")
+	)
+	(fp_line
+		(start -2.032 2.032)
+		(end 2.032 2.032)
+		(stroke
+			(width 0.254)
+			(type default)
+		)
+		(layer "F.SilkS")
+		(uuid "461fc093-7063-47a6-a2b8-4059cee20978")
+	)
+	(fp_line
+		(start 2.032 -2.032)
+		(end -2.032 -2.032)
+		(stroke
+			(width 0.254)
+			(type default)
+		)
+		(layer "F.SilkS")
+		(uuid "800f4be6-7de6-4344-89be-fa95bc823a77")
+	)
+	(fp_line
+		(start 2.032 -1.381)
+		(end 2.032 -2.032)
+		(stroke
+			(width 0.254)
+			(type default)
+		)
+		(layer "F.SilkS")
+		(uuid "388c89a7-0cf8-447c-80e9-af5f1d990de7")
+	)
+	(fp_line
+		(start 2.032 2.032)
+		(end 2.032 1.381)
+		(stroke
+			(width 0.254)
+			(type default)
+		)
+		(layer "F.SilkS")
+		(uuid "47f7fb2c-20e4-4cbf-a9bb-56f0cd0705c7")
+	)
+	(fp_poly
+		(pts
+			(xy -2.225 -1) (xy -1.465 -1) (xy -1.465 1) (xy -2.225 1)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(fill solid)
+		(layer "User.1")
+		(uuid "549f1f1b-1bdc-4d89-8a4d-cac20f2392de")
+	)
+	(fp_poly
+		(pts
+			(xy 1.465 -1) (xy 2.225 -1) (xy 2.225 1) (xy 1.465 1)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(fill solid)
+		(layer "User.1")
+		(uuid "b2f8d87c-cc91-44d8-89d8-18446e6d29e4")
+	)
+	(fp_line
+		(start -2.03 -2.03)
+		(end 2.03 -2.03)
+		(stroke
+			(width 0.051)
+			(type default)
+		)
+		(layer "User.2")
+		(uuid "84a15b9e-a221-491e-899c-fcb689d3a9eb")
+	)
+	(fp_line
+		(start -2.03 2.03)
+		(end -2.03 -2.03)
+		(stroke
+			(width 0.051)
+			(type default)
+		)
+		(layer "User.2")
+		(uuid "4d99e43d-ee2d-4872-9339-ce97ebb14389")
+	)
+	(fp_line
+		(start 2.03 -2.03)
+		(end 2.03 2.03)
+		(stroke
+			(width 0.051)
+			(type default)
+		)
+		(layer "User.2")
+		(uuid "c5614095-10d7-486b-ad0f-98513b2a1eec")
+	)
+	(fp_line
+		(start 2.03 2.03)
+		(end -2.03 2.03)
+		(stroke
+			(width 0.051)
+			(type default)
+		)
+		(layer "User.2")
+		(uuid "f575b6bd-9a34-4a9e-bb3f-d890ce4975b0")
+	)
+	(fp_poly
+		(pts
+			(xy -2.165 2.03) (xy -2.182574 1.987574) (xy -2.225 1.97) (xy -2.267426 1.987574) (xy -2.285 2.03)
+			(xy -2.267426 2.072426) (xy -2.225 2.09) (xy -2.182574 2.072426)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(fill solid)
+		(layer "User.3")
+		(uuid "e091f7a5-a4d5-4842-8d28-10bfe75e23d2")
+	)
+	(pad "1" smd rect
+		(at -1.85 0)
+		(size 1.5 2.3)
+		(layers "F.Cu" "F.Paste" "F.Mask")
+		(uuid "7efc3b63-562d-4ea9-b1fb-f046a84350ed")
+	)
+	(pad "2" smd rect
+		(at 1.85 0)
+		(size 1.5 2.3)
+		(layers "F.Cu" "F.Paste" "F.Mask")
+		(uuid "133fd3ec-b8b0-47e9-896b-c61cf61e9f24")
+	)
+	(model "G:/Other computers/My Laptop/D/Oya/PCB/libraries/3d/SL0420-2R2M.step"
+		(offset
+			(xyz -5.2 8.1 -1.65)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz 0 0 0)
+		)
+	)
+)
